@@ -5,11 +5,11 @@ import { faGithub, faLinkedin, faTwitter, faStackOverflow } from '@fortawesome/f
 
 const Socials = () => (
   <div className="text-center" style={{marginBottom:"32px", marginTop:"10px", color:"#fff"}}>
-    <FontAwesomeIcon icon={faLinkedin} size="2x"/>
-    <FontAwesomeIcon icon={faGithub} size="2x" style={{marginLeft:"25px"}}/>
-    <FontAwesomeIcon icon={faStackOverflow} size="2x" style={{marginLeft:"25px"}}/>
-    <FontAwesomeIcon icon={faEnvelope} size="2x" style={{marginLeft:"25px"}}/>
-    <FontAwesomeIcon icon={faTwitter} size="2x" style={{marginLeft:"25px"}}/>
+    <a href="http://bit.ly/WaweruKamau"><FontAwesomeIcon icon={faLinkedin} size="2x"/></a>
+    <a href="http://bit.ly/MyGithub"><FontAwesomeIcon icon={faGithub} size="2x" style={{marginLeft:"25px"}}/></a>
+    <a href="http://bit.ly/wawerustack"><FontAwesomeIcon icon={faStackOverflow} size="2x" style={{marginLeft:"25px"}}/></a> 
+    <a href="mailto:wawerumail@gmail.com?Subject=Hello"> <FontAwesomeIcon icon={faEnvelope} size="2x" style={{marginLeft:"25px"}}/> </a> 
+    <a href="http://bit.ly/twitterwaweru"><FontAwesomeIcon icon={faTwitter} size="2x" style={{marginLeft:"25px"}}/> </a>
   </div>
 )
 
