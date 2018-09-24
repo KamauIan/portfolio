@@ -4,7 +4,7 @@ import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
 const Contacts = () => (
-  
+
   <section className="container-fluid" id="contact_me" style={{background:"#07aaf5",color:"#fff", paddingTop: "90px" }}>
     <div className="row">
       <div className="col-sm-12 text-center text-capitalize">
@@ -69,8 +69,8 @@ const Contacts = () => (
           </div>
         </form>
             <div className="col-sm-12">
-              <p className="text-center" style={{ color:"#fff",marginBottom:"10px"}}>
-               © Copyright 2018 
+              <p className="text-center" style={{ color:"#fff", position:"relative"}}>
+               Copyright © {new Date().getFullYear()} Waweru Kamau
              </p>
            </div>
       </section>
