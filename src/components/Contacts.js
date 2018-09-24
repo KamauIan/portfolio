@@ -5,7 +5,7 @@ import { faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
 const Contacts = () => (
 
-  <section className="container-fluid" id="contact_me" style={{background:"#07aaf5",color:"#fff", paddingTop: "90px" }}>
+  <section className="container-fluid" id="contacts" style={{background:"#07aaf5",color:"#fff", paddingTop: "90px" }}>
     <div className="row">
       <div className="col-sm-12 text-center text-capitalize">
         <h3 style={{fontSize:"24px", fontWeight:"700"}}>want to discuss a project?</h3>

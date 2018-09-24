@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser, faBuilding, faGraduationCap, faClock, faBook } from '@fortawesome/free-solid-svg-icons'
 
 const Aboutme = () =>(
-<section id="aboutme" className="container" style={{marginTop:"60px"}}>
+<section id="about" className="container" style={{marginTop:"60px"}}>
 <div className="row nav nav-pills">
   <div>
     <div className="row">

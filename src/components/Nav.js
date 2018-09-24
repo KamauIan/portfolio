@@ -8,13 +8,13 @@ const Nav = () => (
     <a className="nav-link text-white" style={{fontSize:"18px", fontWeight:700}} href="#">RESUME</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link text-white" style={{fontSize:"18px", fontWeight:700}} href="#">PORTFOLIO</a>
+    <a className="nav-link text-white" style={{fontSize:"18px", fontWeight:700}} href="#portfolio">PORTFOLIO</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link text-white" style={{fontSize:"18px", fontWeight:700}} href="#">ABOUT</a>
+    <a className="nav-link text-white" style={{fontSize:"18px", fontWeight:700}} href="#about">ABOUT</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link disabled text-white" style={{fontSize:"18px", fontWeight:700}} href="#">CONTACTS</a>
+    <a className="nav-link disabled text-white" style={{fontSize:"18px", fontWeight:700}} href="#contacts">CONTACTS</a>
   </li>
 </ul></div>
     
