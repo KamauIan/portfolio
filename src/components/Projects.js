@@ -13,7 +13,7 @@ const Projects = () => (
       </div>
       <div className="row">
         <div className="col-sm-4 col-xs-6">
-          <a href="http://bit.ly/Mach4Hire" style={{ color: "inherit", textDecoration: "none" }} >
+          <a href="http://bit.ly/Mach4Hire" style={{ color: "inherit", textDecoration: "none" }} target="_blank">
             <div className="block">
               <FontAwesomeIcon style={{ fontSize: "44px", fontWeight: "100" }} size={"3x"} icon={faCode}></FontAwesomeIcon>
               <h4 style={{ fontSize: "18px", fontWeight: "600" }} className="text-uppercase">Machinery For Hire | Web App</h4>
@@ -24,7 +24,7 @@ const Projects = () => (
           </a>
         </div>
         <div className="col-sm-4 col-xs-6">
-          <a href="http://bit.ly/EventsAPP" style={{ color: "inherit", textDecoration: "none" }} >
+          <a href="http://bit.ly/EventsAPP" style={{ color: "inherit", textDecoration: "none" }} target="_blank">
             <div className="block">
               <FontAwesomeIcon size={"3x"} icon={faMobileAlt}></FontAwesomeIcon>
               <h4 style={{ fontSize: "18px", fontWeight: "600" }} className="text-uppercase">Events Sharing | Mobile App</h4>
@@ -34,7 +34,7 @@ const Projects = () => (
           </a>
         </div>
         <div className="col-sm-4 col-xs-6">
-        <a href="http://bit.ly/ReactNativeNews" style={{ color: "inherit", textDecoration: "none" }} >
+        <a href="http://bit.ly/ReactNativeNews" style={{ color: "inherit", textDecoration: "none" }} target="_blank">
           <div className="block">
             <FontAwesomeIcon size={"3x"} icon={faNewspaper}></FontAwesomeIcon>
             <h4 style={{ fontSize: "18px", fontWeight: "600" }} className="text-uppercase">News App | React-Native</h4>
