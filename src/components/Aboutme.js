@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser, faBuilding, faGraduationCap, faClock, faBook } from '@fortawesome/free-solid-svg-icons'
 
 const Aboutme = () =>(
-<section id="about" className="container" style={{marginTop:"60px"}}>
+<section id="about" className="container" style={{marginTop:"60px", display:"flex"}}>
 <div className="row nav nav-pills">
   <div>
     <div className="row">
@@ -29,7 +29,7 @@ const Aboutme = () =>(
           </ul>
         </div> 
         <div style={{marginTop:"26px", marginBottom: "26px"}}>
-          <h4 style={{fontWeight:"700", fontSize:"18px", color:"#555"}}>Software Developer Intern </h4>
+          <h4 style={{fontWeight:"700", fontSize:"18px", color:"#555"}}> Junior Software Developer </h4>
           <ul style={{listStyleType:"none", margin:"0px", padding:"0px"}}>
             <li style={{color:"#9b9b9b", fontSize:"14px"}}><FontAwesomeIcon icon={faBuilding}></FontAwesomeIcon> Wingubox</li>
             <li style={{color:"#9b9b9b", fontSize:"14px"}}><FontAwesomeIcon icon={faClock}></FontAwesomeIcon>Jan 2017 - April 2017 </li>

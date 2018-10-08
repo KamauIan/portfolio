@@ -10,8 +10,8 @@ import Hireme from './Hireme';
 
 const Main = () => (
   <div>
-    <header style={{ backgroundColor: "#07aaf5" }}>
-      <Nav />
+    <Nav />
+    <header style={{ backgroundColor: "#07aaf5" }}>  
 
       <div>
         <div className="col">
