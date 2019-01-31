@@ -7,7 +7,7 @@ const Header = () => (
           <h1 className="text-center" style={{ color: "#fff", fontSize: "36px", fontWeight: 700 }}>Ian Waweru Kamau</h1>
           <h3 className="text-center text-capitalize" style={{ color: "#fff", marginTop: "20px", fontSize: "24px", fontWeight: 400 }} >Software Developer</h3>
           <hr style={{ height: "3px", width: "100px", background: "#fff", marginTop: "15px", fontSize: "20px" }} />
-          <h2 className="text-center text-capitalize" style={{ color: "#fff", marginTop: "20px", marginBottom: "20px", fontSize: "16px", fontWeight: 600 }} >HTML/CSS | Bootstrap | JavaScript | React | React-Native | NodeJS | Express | MySQL</h2>
+          <h2 className="text-center text-capitalize" style={{ color: "#fff", marginTop: "20px", marginBottom: "20px", fontSize: "16px", fontWeight: 600 }} >React | React-Native | NodeJS | GraphQL | MongoDB</h2>
           </div>)
 
 export default Header;
