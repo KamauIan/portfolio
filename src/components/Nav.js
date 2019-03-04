@@ -17,7 +17,7 @@ const Nav = () => (
         <a className="nav-link disabled text-white" style={{ fontSize: "18px", fontWeight: 700 }} href="#contacts">CONTACTS</a>
       </li>
       <li className="nav-item" style={{backgroundColor:"#fff", borderRadius:50}}>
-        <a className="nav-link text-white" style={{ fontSize: "18px", fontWeight: 700 }} href="http://bit.ly/2NhEaoj" target="_blank"><span style={{color:"#07aaf5"}}>RESUME</span></a>
+        <a className="nav-link text-white" style={{ fontSize: "18px", fontWeight: 700 }} href="http://bit.ly/2ThXXMt" target="_blank"><span style={{color:"#07aaf5"}}>RESUME</span></a>
       </li>
     </ul></div>
 )
