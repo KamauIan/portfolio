@@ -92,7 +92,7 @@ const Projects = () => (
         </div>
         <div className="col-sm-4 col-xs-6">
           <a
-            href="http://bit.ly/ReactNativeNews"
+            href="https://github.com/KamauIan/NewsApp"
             style={{ color: "inherit", textDecoration: "none" }}
             target="_blank"
           >
