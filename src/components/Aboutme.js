@@ -29,7 +29,7 @@ const Aboutme = () =>(
           </ul>
         </div> 
         <div style={{marginTop:"26px", marginBottom: "26px"}}>
-          <h4 style={{fontWeight:"700", fontSize:"18px", color:"#555"}}> Software Developer Contract</h4>
+          <h4 style={{fontWeight:"700", fontSize:"18px", color:"#555"}}> Software Developer Consulting</h4>
           <ul style={{listStyleType:"none", margin:"0px", padding:"0px"}}>
             {/* <li style={{color:"#9b9b9b", fontSize:"14px"}}><FontAwesomeIcon icon={faBuilding}></FontAwesomeIcon> </li> */}
             <li style={{color:"#9b9b9b", fontSize:"14px"}}><FontAwesomeIcon icon={faClock}></FontAwesomeIcon> Nov 2018 - Present </li>
