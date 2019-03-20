@@ -59,7 +59,7 @@ const Nav = () => (
         <a
           className="nav-link text-white"
           style={{ fontSize: "18px", fontWeight: 700 }}
-          href="http://bit.ly/2ThXXMt"
+          href="https://drive.google.com/file/d/10kEE573_cbswmsJ3jfeWaBT1GYWGkVMJ/view?usp=sharing"
           target="_blank"
         >
           <span style={{ color: "#07aaf5" }}>RESUME</span>
